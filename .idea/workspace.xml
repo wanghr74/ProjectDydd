@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea0dd57-67c6-45ef-b605-c4dcf8f43e8c" name="默认更改列表" comment="20191218">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
+    <list default="true" id="1ea0dd57-67c6-45ef-b605-c4dcf8f43e8c" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -90,7 +81,16 @@
       <workItem from="1576563877026" duration="2610000" />
       <workItem from="1576568722785" duration="2891000" />
       <workItem from="1576647414853" duration="665000" />
+      <workItem from="1576648445370" duration="239000" />
     </task>
+    <task id="LOCAL-00001" summary="20191218">
+      <created>1576648539048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576648539048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,14 +102,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="20191218" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="238" y="155" key="#Deployment" timestamp="1576648502977">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="238" y="155" key="#Deployment/0.0.1280.980@0.0.1280.980" timestamp="1576648502977" />
     <state x="449" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1576565908433">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
     <state x="449" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1280.980@0.0.1280.980" timestamp="1576565908433" />
-    <state x="230" y="93" key="CommitChangelistDialog2" timestamp="1576647960967">
+    <state x="230" y="93" key="CommitChangelistDialog2" timestamp="1576648537535">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
-    <state x="230" y="93" key="CommitChangelistDialog2/0.0.1280.980@0.0.1280.980" timestamp="1576647960967" />
+    <state x="230" y="93" key="CommitChangelistDialog2/0.0.1280.980@0.0.1280.980" timestamp="1576648537535" />
     <state x="424" y="252" key="FileChooserDialogImpl" timestamp="1576647546727">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
@@ -122,10 +126,10 @@
       <screen x="0" y="0" width="1280" height="980" />
     </state>
     <state x="184" y="126" key="SettingsEditor/0.0.1280.980@0.0.1280.980" timestamp="1576646907438" />
-    <state x="236" y="230" key="Vcs.Push.Dialog.v2" timestamp="1576648042978">
+    <state x="236" y="230" key="Vcs.Push.Dialog.v2" timestamp="1576648605532">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
-    <state x="236" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.980@0.0.1280.980" timestamp="1576648042978" />
+    <state x="236" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.980@0.0.1280.980" timestamp="1576648605532" />
     <state x="353" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1576563637701">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
