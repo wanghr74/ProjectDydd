@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ea0dd57-67c6-45ef-b605-c4dcf8f43e8c" name="默认更改列表" comment="20191218">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Administrator\IdeaProjects\HelloWorld\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V6BLlXeXwyT9Z7TZcBInXbfnRB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled104" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ea0dd57-67c6-45ef-b605-c4dcf8f43e8c" name="默认更改列表" comment="" />
+      <created>1576563613052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576563613052</updated>
+      <workItem from="1576563630681" duration="179000" />
+      <workItem from="1576563877026" duration="2610000" />
+      <workItem from="1576568722785" duration="2891000" />
+      <workItem from="1576647414853" duration="665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="20191218" />
+    <option name="LAST_COMMIT_MESSAGE" value="20191218" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1576565908433">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="449" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1280.980@0.0.1280.980" timestamp="1576565908433" />
+    <state x="230" y="93" key="CommitChangelistDialog2" timestamp="1576647960967">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="230" y="93" key="CommitChangelistDialog2/0.0.1280.980@0.0.1280.980" timestamp="1576647960967" />
+    <state x="424" y="252" key="FileChooserDialogImpl" timestamp="1576647546727">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="424" y="252" key="FileChooserDialogImpl/0.0.1280.980@0.0.1280.980" timestamp="1576647546727" />
+    <state x="254" y="206" key="NewModule_or_Project.wizard" timestamp="1576648085746">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="254" y="206" key="NewModule_or_Project.wizard/0.0.1280.980@0.0.1280.980" timestamp="1576648085746" />
+    <state x="184" y="126" key="SettingsEditor" timestamp="1576646907438">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="184" y="126" key="SettingsEditor/0.0.1280.980@0.0.1280.980" timestamp="1576646907438" />
+    <state x="236" y="230" key="Vcs.Push.Dialog.v2" timestamp="1576648042978">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="236" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.980@0.0.1280.980" timestamp="1576648042978" />
+    <state x="353" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1576563637701">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="353" y="323" key="com.intellij.ide.util.TipDialog/0.0.1280.980@0.0.1280.980" timestamp="1576563637701" />
+    <state x="403" y="299" key="git4idea.merge.GitPullDialog" timestamp="1576648020713">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="403" y="299" key="git4idea.merge.GitPullDialog/0.0.1280.980@0.0.1280.980" timestamp="1576648020713" />
+  </component>
+</project>
