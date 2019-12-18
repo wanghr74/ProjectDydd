@@ -1,23 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ea0dd57-67c6-45ef-b605-c4dcf8f43e8c" name="默认更改列表" comment="" />
+    <list default="true" id="1ea0dd57-67c6-45ef-b605-c4dcf8f43e8c" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HelloWorld" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -34,6 +51,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -52,6 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -79,7 +103,8 @@
       <workItem from="1576563877026" duration="2610000" />
       <workItem from="1576568722785" duration="2891000" />
       <workItem from="1576647414853" duration="665000" />
-      <workItem from="1576648445370" duration="545000" />
+      <workItem from="1576648445370" duration="1330000" />
+      <workItem from="1576650529895" duration="763000" />
     </task>
     <task id="LOCAL-00001" summary="20191218">
       <created>1576648539048</created>
@@ -95,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576648703250</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20191218">
+      <created>1576649121981</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576649121981</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +138,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -122,14 +156,18 @@
       <screen x="0" y="0" width="1280" height="980" />
     </state>
     <state x="238" y="155" key="#Deployment/0.0.1280.980@0.0.1280.980" timestamp="1576648502977" />
-    <state x="449" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1576565908433">
+    <state x="449" y="187" key="#com.intellij.ide.util.MemberChooser" timestamp="1576651249380">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
-    <state x="449" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1280.980@0.0.1280.980" timestamp="1576565908433" />
-    <state x="230" y="93" key="CommitChangelistDialog2" timestamp="1576648537535">
+    <state x="449" y="187" key="#com.intellij.ide.util.MemberChooser/0.0.1280.980@0.0.1280.980" timestamp="1576651249380" />
+    <state x="481" y="388" width="318" height="211" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576650637453">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
-    <state x="230" y="93" key="CommitChangelistDialog2/0.0.1280.980@0.0.1280.980" timestamp="1576648537535" />
+    <state x="481" y="388" width="318" height="211" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.980@0.0.1280.980" timestamp="1576650637453" />
+    <state x="230" y="93" key="CommitChangelistDialog2" timestamp="1576649120692">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="230" y="93" key="CommitChangelistDialog2/0.0.1280.980@0.0.1280.980" timestamp="1576649120692" />
     <state x="424" y="252" key="FileChooserDialogImpl" timestamp="1576647546727">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
@@ -146,21 +184,25 @@
       <screen x="0" y="0" width="1280" height="980" />
     </state>
     <state x="184" y="126" key="SettingsEditor/0.0.1280.980@0.0.1280.980" timestamp="1576646907438" />
-    <state x="236" y="230" key="Vcs.Push.Dialog.v2" timestamp="1576648605532">
+    <state x="236" y="230" key="Vcs.Push.Dialog.v2" timestamp="1576650769982">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
-    <state x="236" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.980@0.0.1280.980" timestamp="1576648605532" />
+    <state x="236" y="230" key="Vcs.Push.Dialog.v2/0.0.1280.980@0.0.1280.980" timestamp="1576650769982" />
     <state x="353" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1576563637701">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
     <state x="353" y="323" key="com.intellij.ide.util.TipDialog/0.0.1280.980@0.0.1280.980" timestamp="1576563637701" />
-    <state x="442" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576648961266">
+    <state x="442" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576651128126">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
-    <state x="442" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.980@0.0.1280.980" timestamp="1576648961266" />
-    <state x="403" y="299" key="git4idea.merge.GitPullDialog" timestamp="1576648020713">
+    <state x="442" y="414" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.980@0.0.1280.980" timestamp="1576651128126" />
+    <state x="406" y="299" key="git4idea.merge.GitMergeDialog" timestamp="1576651096519">
       <screen x="0" y="0" width="1280" height="980" />
     </state>
-    <state x="403" y="299" key="git4idea.merge.GitPullDialog/0.0.1280.980@0.0.1280.980" timestamp="1576648020713" />
+    <state x="406" y="299" key="git4idea.merge.GitMergeDialog/0.0.1280.980@0.0.1280.980" timestamp="1576651096519" />
+    <state x="403" y="299" key="git4idea.merge.GitPullDialog" timestamp="1576651064283">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="403" y="299" key="git4idea.merge.GitPullDialog/0.0.1280.980@0.0.1280.980" timestamp="1576651064283" />
   </component>
 </project>
